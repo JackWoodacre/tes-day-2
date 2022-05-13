@@ -6,7 +6,7 @@ namespace tes_day_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, Jun here!");
             Console.WriteLine("Hello, Andy here!");
             Console.WriteLine("Hello, Jack here!");
 
